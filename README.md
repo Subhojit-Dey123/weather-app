@@ -4,7 +4,7 @@ A responsive weather application built with React and Tailwind CSS that provides
 
 ## 🚀 Live Demo
 
-**Live Demo:** Add your Vercel URL here
+[View Live Demo](https://weather-app-pi-black-87.vercel.app/)
 
 ## 📸 Screenshots
 
@@ -62,7 +62,7 @@ src/
 │   └── ForecastCard.jsx
 │
 ├── services/
-│   └── weatherApi.jsx
+│   └── weatherApi.js
 │
 ├── App.jsx
 ├── main.jsx
